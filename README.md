@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 
-![MyImage](..\images\Screenshot 2022-07-27 at 22-28-55 Frontend Mentor Anie's QR code component.png)
+![MyImage](Screenshot 2022-07-27 at 22-28-55 Frontend Mentor Anie's QR code component.png)
 
 
 
